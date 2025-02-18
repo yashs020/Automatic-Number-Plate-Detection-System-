@@ -11,7 +11,6 @@ Automatic Number Plate Recognition (ANPR) Using YOLOv8 and easyOCR
 
 !pip install easyocr
 
-!git clone https://github.com/AarohiSingla/Automatic-Number-Plate-Recognition--ANPR-.git
 
 cd Automatic-Number-Plate-Recognition--ANPR--main
 
